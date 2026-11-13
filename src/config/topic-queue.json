@@ -47,14 +47,16 @@
     "category": "steuern-freibetraege",
     "keyword": "Handwerkerrechnung absetzen: 20 % direkten Steuerbonus auf Arbeitslohn berechnen",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-13T23:10:40.455Z"
   },
   {
     "id": "heizkosten-sparen-pro-grad-celsius-rechner",
     "category": "strom-heizkosten",
     "keyword": "Heizung 1 Grad herunterdrehen: Wie viel Prozent Heizkosten du wirklich sparst",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-13T23:09:47.737Z"
   },
   {
     "id": "50-30-20-budgetregel-monatsnetto-aufteilen",
