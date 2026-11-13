@@ -1,0 +1,144 @@
+[
+  {
+    "id": "notgroschen-wie-hoch-tagesgeld-rechner",
+    "category": "geldanlage-rechner",
+    "keyword": "Notgroschen berechnen: Wie viele Monatsgehälter sinnvoll sind & Zinsvergleich",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "abos-fixkosten-sparen-monatlich",
+    "category": "sparen-haushalt",
+    "keyword": "Haushaltsbuch-Check: Mit diesen 6 Fixkosten-Checks sofort 100 Euro im Monat sparen",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "pendlerpauschale-berechnen-ab-21-kilometer",
+    "category": "steuern-freibetraege",
+    "keyword": "Pendlerpauschale richtig berechnen: 30 und 38 Cent ab dem 21. Kilometer",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "standby-stromverbrauch-im-haushalt-berechnen",
+    "category": "strom-heizkosten",
+    "keyword": "Standby-Kosten im Haushalt berechnen: TV, Router & PC im Jahrescheck",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "freistellungsauftrag-1000-euro-richtig-aufteilen",
+    "category": "geldanlage-rechner",
+    "keyword": "Freistellungsauftrag richtig aufteilen: 1.000 Euro Sparerpauschbetrag voll nutzen",
+    "intent": "informational",
+    "status": "published",
+    "publishedAt": "2026-11-13T22:44:29.046Z"
+  },
+  {
+    "id": "kinderzuschlag-einkommensgrenze-berechnen",
+    "category": "foerderung-zuschuesse",
+    "keyword": "Kinderzuschlag bis 292 Euro pro Kind berechnen & mit Wohngeld kombinieren",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "handwerkerkosten-20-prozent-steuerbonus-berechnen",
+    "category": "steuern-freibetraege",
+    "keyword": "Handwerkerrechnung absetzen: 20 % direkten Steuerbonus auf Arbeitslohn berechnen",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "heizkosten-sparen-pro-grad-celsius-rechner",
+    "category": "strom-heizkosten",
+    "keyword": "Heizung 1 Grad herunterdrehen: Wie viel Prozent Heizkosten du wirklich sparst",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "50-30-20-budgetregel-monatsnetto-aufteilen",
+    "category": "sparen-haushalt",
+    "keyword": "Die 50-30-20-Regel im Alltag: Monatsbudget sinnvoll zwischen Fixkosten und Sparen teilen",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "zinseszins-bei-100-euro-sparplan-berechnen",
+    "category": "geldanlage-rechner",
+    "keyword": "Zinseszinseffekt konkret berechnet: Was aus 50 oder 100 Euro monatlich nach 10 Jahren wird",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "nebenkostenabrechnung-pruefen-quadratmeter-check",
+    "category": "sparen-haushalt",
+    "keyword": "Nebenkostenabrechnung nachrechnen: Umlagefähige Posten vs. versteckte Vermieterkosten",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "steuerklasse-3-5-oder-4-4-faktor-vergleich",
+    "category": "steuern-freibetraege",
+    "keyword": "Steuerklassen-Vergleich für Ehepaare: Wann Faktorverfahren Nachzahlungen verhindert",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "e-auto-wallbox-ladekosten-gegen-benzin-berechnen",
+    "category": "strom-heizkosten",
+    "keyword": "E-Auto Stromkosten pro 100 km vs. Benzin berechnen: Lohnt sich das Laden zu Hause?",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "elterngeld-bemessungszeitraum-optimieren",
+    "category": "foerderung-zuschuesse",
+    "keyword": "Elterngeld richtig berechnen: Basis-Elterngeld, ElterngeldPlus & Geschwisterbonus",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "kirchensteuer-ersparnis-pro-monat-berechnen",
+    "category": "steuern-freibetraege",
+    "keyword": "Wie viel Kirchensteuer zahlst du? 8 % oder 9 % der Einkommensteuer erklärt",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "kfz-versicherung-jahresbeitrag-druecken",
+    "category": "sparen-haushalt",
+    "keyword": "Autoversicherung durchrechnen: Wie jährliche Zahlweise und Kilometerklasse Geld sparen",
+    "intent": "informational",
+    "status": "published",
+    "publishedAt": "2026-11-13T22:43:30.496Z"
+  },
+  {
+    "id": "inflation-kaufkraftverlust-auf-girokonto-berechnen",
+    "category": "geldanlage-rechner",
+    "keyword": "Was kostet liegen gelassenes Geld auf dem Girokonto bei 2–3 % Inflation pro Jahr?",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "stromtarif-wechsel-bonus-oder-arbeitspreis-rechnen",
+    "category": "strom-heizkosten",
+    "keyword": "Stromvertrag nachrechnen: Wann sich Neukundenbonus lohnt und wann ein niedriger kWh-Preis",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "arbeitsmittel-800-euro-grenze-sofort-absetzen",
+    "category": "steuern-freibetraege",
+    "keyword": "952-Euro-Grenze (800 € netto): Laptop, Smartphone und Bürostuhl sofort komplett absetzen",
+    "intent": "informational",
+    "status": "pending"
+  },
+  {
+    "id": "vermoegenswirksame-leistungen-arbeitgeber-bonus",
+    "category": "foerderung-zuschuesse",
+    "keyword": "Vermögenswirksame Leistungen (VL) & Arbeitnehmersparzulage einfach mitnehmen",
+    "intent": "informational",
+    "status": "pending"
+  }
+]
