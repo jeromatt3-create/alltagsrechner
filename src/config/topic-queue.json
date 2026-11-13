@@ -18,7 +18,8 @@
     "category": "steuern-freibetraege",
     "keyword": "Pendlerpauschale richtig berechnen: 30 und 38 Cent ab dem 21. Kilometer",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-13T23:21:57.160Z"
   },
   {
     "id": "standby-stromverbrauch-im-haushalt-berechnen",
