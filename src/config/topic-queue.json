@@ -78,7 +78,8 @@
     "category": "sparen-haushalt",
     "keyword": "Nebenkostenabrechnung nachrechnen: Umlagefähige Posten vs. versteckte Vermieterkosten",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-14T06:57:27.984Z"
   },
   {
     "id": "steuerklasse-3-5-oder-4-4-faktor-vergleich",
