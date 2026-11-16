@@ -111,7 +111,8 @@
     "category": "steuern-freibetraege",
     "keyword": "Wie viel Kirchensteuer zahlst du? 8 % oder 9 % der Einkommensteuer erklärt",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-16T18:00:53.699Z"
   },
   {
     "id": "kfz-versicherung-jahresbeitrag-druecken",
