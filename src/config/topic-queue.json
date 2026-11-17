@@ -75,7 +75,8 @@
     "category": "geldanlage-rechner",
     "keyword": "Zinseszinseffekt konkret berechnet: Was aus 50 oder 100 Euro monatlich nach 10 Jahren wird",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-17T18:00:00.345Z"
   },
   {
     "id": "nebenkostenabrechnung-pruefen-quadratmeter-check",
