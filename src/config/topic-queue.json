@@ -99,7 +99,8 @@
     "category": "strom-heizkosten",
     "keyword": "E-Auto Stromkosten pro 100 km vs. Benzin berechnen: Lohnt sich das Laden zu Hause?",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-18T17:58:52.503Z"
   },
   {
     "id": "elterngeld-bemessungszeitraum-optimieren",
