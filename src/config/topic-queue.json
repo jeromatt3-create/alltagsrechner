@@ -145,7 +145,8 @@
     "category": "steuern-freibetraege",
     "keyword": "952-Euro-Grenze (800 € netto): Laptop, Smartphone und Bürostuhl sofort komplett absetzen",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-19T17:55:49.215Z"
   },
   {
     "id": "vermoegenswirksame-leistungen-arbeitgeber-bonus",
