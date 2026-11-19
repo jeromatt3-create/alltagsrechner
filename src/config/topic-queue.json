@@ -107,7 +107,8 @@
     "category": "foerderung-zuschuesse",
     "keyword": "Elterngeld richtig berechnen: Basis-Elterngeld, ElterngeldPlus & Geschwisterbonus",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-19T07:15:26.481Z"
   },
   {
     "id": "kirchensteuer-ersparnis-pro-monat-berechnen",
