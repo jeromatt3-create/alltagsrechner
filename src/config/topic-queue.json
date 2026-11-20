@@ -131,7 +131,8 @@
     "category": "geldanlage-rechner",
     "keyword": "Was kostet liegen gelassenes Geld auf dem Girokonto bei 2–3 % Inflation pro Jahr?",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-20T07:15:49.047Z"
   },
   {
     "id": "stromtarif-wechsel-bonus-oder-arbeitspreis-rechnen",
