@@ -12,7 +12,8 @@
     "category": "sparen-haushalt",
     "keyword": "Haushaltsbuch-Check: Mit diesen 6 Fixkosten-Checks sofort 100 Euro im Monat sparen",
     "intent": "informational",
-    "status": "pending"
+    "status": "published",
+    "publishedAt": "2026-11-21T07:06:59.242Z"
   },
   {
     "id": "pendlerpauschale-berechnen-ab-21-kilometer",
